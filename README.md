@@ -1,4 +1,4 @@
-# Thesis — gearbox assembly simulation
+# Unity Gearbox Assembly Simulation
 
 Unity simulation of a robot and worker assembling a planetary gearbox, controlled by a behaviour tree.
 
